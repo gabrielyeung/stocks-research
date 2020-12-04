@@ -20,8 +20,8 @@ https://news.airbnb.com/about-us/
 | 9/30/2020 | 5.6 M           | 4+ M  | 7900                       |
 
 track how the following stats grow:
-- host #
-- # of travelers
+- host #s
+- traveler #s
 - bookings
 - gross booking value
 
