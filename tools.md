@@ -21,4 +21,5 @@
 - so-so
   - chase: acceptable but ui and feature set lacking
   - robinhood: want more infrastructure support
+    - [How Robinhood Captures Beginner Investors](https://www.youtube.com/watch?v=fjNtrraxLII)
   - sofi: lacking, geared towards beginners. no performance graphs, ytd % views.
