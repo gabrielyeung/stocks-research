@@ -26,19 +26,13 @@ track how the following stats grow:
 - gross booking value
 
 
-## industry comps
-https://finviz.com/quote.ashx?t=BKNG
-https://finviz.com/quote.ashx?t=EXPE
-https://finviz.com/quote.ashx?t=MAR
-https://finviz.com/quote.ashx?t=HLT
-
-| P/S industry comps                                 |
-| ticker    | MC (B)| sales (B)| P/S  | as of date   |
-| --------- | ----- | -------- | ---- | ------------ |
-| BKNG      | 84.84 | 8.90     | 9.54 | F 11/27/2020 |
-| EXPE      | 18.10 | 7.03     | 2.58 |              |
-| MAR       | 42.27 | 13.77    | 3.07 |              |
-| HLT       | 29.26 | 5.79     | 5.06 |              |
+## industry comps, P/S
+| ticker                                       | MC (B)| sales (B)| P/S  | as of date   |
+| -------------------------------------------- | ----- | -------- | ---- | ------------ |
+| [BKNG](https://finviz.com/quote.ashx?t=BKNG) | 84.84 | 8.90     | 9.54 | F 11/27/2020 |
+| [EXPE](https://finviz.com/quote.ashx?t=EXPE) | 18.10 | 7.03     | 2.58 |              |
+| [MAR](https://finviz.com/quote.ashx?t=MAR)   | 42.27 | 13.77    | 3.07 |              |
+| [HLT](https://finviz.com/quote.ashx?t=HLT)   | 29.26 | 5.79     | 5.06 |              |
 
 Airbnb
 ~est S1 target MC of 30 B

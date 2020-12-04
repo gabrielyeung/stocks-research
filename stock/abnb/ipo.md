@@ -7,7 +7,7 @@ https://www.cnet.com/news/airbnb-seeks-to-raise-2-5b-in-ipo/
 
 ### 11/19/2020
 [AirBNB Files for IPO (Am I Buying?)](https://www.youtube.com/watch?v=OdgWGzLYQJw)
-- reviews S1 financials
+reviews S1 financials
 
 
 ### 11/17/2020
@@ -22,7 +22,7 @@ https://www.sec.gov/Archives/edgar/data/1559720/000119312520294801/d81668ds1.htm
 https://techcrunch.com/2020/11/17/5-questions-from-airbnbs-ipo-filing/
 https://www.ft.com/content/0eb78dfe-cda4-4d6f-8483-ba964b76a013
 ```
-	The total number of listings on Airbnb was 7.4m as of the end of September, of which 5.6m were “active” listings — defined as rooms, homes or Experiences that were both viewable on the site and had been booked at least once. 
+The total number of listings on Airbnb was 7.4m as of the end of September, of which 5.6m were “active” listings — defined as rooms, homes or Experiences that were both viewable on the site and had been booked at least once. 
 ```
 https://www.finder.com/buy-airbnb-stock
 ```
