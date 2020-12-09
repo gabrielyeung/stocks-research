@@ -1,6 +1,11 @@
 
 # ABNB ipo news
 
+### 12/7/2020
+https://investorplace.com/2020/12/airbnb-stock-ipo-is-set-to-soar-200-dont-sit-this-out/
+
+### 12/4/2020
+https://www.barrons.com/articles/airbnbs-ipo-will-be-hot-why-its-stock-will-be-worth-the-price-51607120966
 
 ### 12/1/2020
 https://www.cnet.com/news/airbnb-seeks-to-raise-2-5b-in-ipo/

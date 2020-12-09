@@ -1,6 +1,11 @@
 # TSLA news
 
 
+
+### 12/7/2020
+https://markets.businessinsider.com/news/stocks/tesla-stock-price-soar-gene-munster-loup-ventures-auto-industry-valuation-2020-12-1029869745
+
+
 ### 11/16/2020
 https://www.spglobal.com/spdji/en/governance/consultations/sp500consultationonimplementationoftslaaddition11-16-20.pdf
 ```
