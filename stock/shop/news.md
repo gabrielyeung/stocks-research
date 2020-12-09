@@ -2,11 +2,9 @@
 
 
 ### 12/8/2020
-[Shopify President Harley Finkelstein on predictions in e-commerce in 2021](https://www.youtube.com/watch?v=-NWQGB3d85A)
-  
-https://news.shopify.com/charging-ahead-shopifys-first-annual-future-of-commerce-report-reveals-five-trends-brands-need-to-know-in-2021
-
-https://www.shopify.com/future-of-commerce/2021
+- [Shopify President Harley Finkelstein on predictions in e-commerce in 2021](https://www.youtube.com/watch?v=-NWQGB3d85A)
+- https://news.shopify.com/charging-ahead-shopifys-first-annual-future-of-commerce-report-reveals-five-trends-brands-need-to-know-in-2021
+- https://www.shopify.com/future-of-commerce/2021
   
 1. Young consumers will change the business landscape as ecommerce charges ahead
 2. Physical retail will transform as we know it, giving local businesses new advantages
