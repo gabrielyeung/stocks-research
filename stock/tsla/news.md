@@ -1,5 +1,7 @@
 # TSLA news
 
+### 12/10/2020
+https://www.marketwatch.com/story/tesla-has-a-20-billion-war-chest-for-2021-and-beyond-11607628550
 
 
 ### 12/7/2020
