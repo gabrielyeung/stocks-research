@@ -1,7 +1,7 @@
 # T 12/15/2020, value screen list
 ```
   criteria
-  - > 800M, < 30B MC
+  - > 800M, ~ mainly < 30B MC
   - moat / management, good
   - closing price ~ < mos
 
