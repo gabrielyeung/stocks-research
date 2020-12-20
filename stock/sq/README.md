@@ -39,6 +39,7 @@ It all aligns with our purpose of economic empowerment—we are helping all kind
 - cash app
   - debit card personalization design UX
   - boosts (10% off doordash, grocery etc)
+  - bitcoin access
 
 ## stock's story
 - cash app yoy growth is the primary growth story

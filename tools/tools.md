@@ -7,9 +7,15 @@
 - [CNBC Finance](https://www.cnbc.com/quotes/?symbol=SQ&tab=ownership), good for glance of ownership list
 - [Macrotrends](https://www.macrotrends.net/)
 
+
+## options tools
+- [Interactivebrokers, Probability Lab](https://www1.interactivebrokers.com/en/index.php?f=5910)
+
+
 ## desktop tools
 - Webull - TradingView has the best charting UX but it's freemium version only allows up to 3 watchlist, either upgrade to paid TradingView version or use the watchlist feature from another product such as Webull
 - ThinkOrSwim - for advanced users
+
 
 ## brokerage accounts
 - legit

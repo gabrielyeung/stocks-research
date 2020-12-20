@@ -2,7 +2,8 @@
 
 
 ## misc
-[Here's WHY Dropbox Stock (DBX) is STUCK at $19 despite Beating Earnings REPEATEDLY | SHOULD YOU BUY?](https://www.youtube.com/watch?v=AWw3CvVjX0k)
+- [Here's WHY Dropbox Stock (DBX) is STUCK at $19 despite Beating Earnings REPEATEDLY | SHOULD YOU BUY?](https://www.youtube.com/watch?v=AWw3CvVjX0k)
+- [DROPBOX | I Can't Believe I Missed This About DBX Stock](https://www.youtube.com/watch?v=Scv_CEeSwUw)
 
 
 ## catalysts

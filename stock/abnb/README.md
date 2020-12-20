@@ -43,14 +43,19 @@ Airbnb
 
 
 ## valuation model
-https://acouplecents.com/analyst-read-airbnb-ipo-2/
-see the xlsx file [./Airbnb-Model-v3.xlsx]
+- https://acouplecents.com/analyst-read-airbnb-ipo-2/
+- see the xlsx file [./Airbnb-Model-v3.xlsx]
+
+- [Is Airbnb Stock a Buy at $145?](https://www.youtube.com/watch?v=SV3mmp6Ae9g)
+- [The Sharing Economy comes home! The Airbnb IPO (at long last)!](https://www.youtube.com/watch?v=I2bl-R7vQh8)
+
 
 ## business model
 - travel platform
 - increase gross bookings, take ~12-15% cut from host + travelers
 - increase users
 - `Our Long-Term Growth Strategy` S1 page 221
+
 
 ## risks  
 - continuing covid-19 headwinds, travel cancellations. see S1, page 40-44
@@ -71,6 +76,7 @@ At the time of the offering, we expect to recognize stock-based compensation exp
 Maintaining and enhancing our brand and reputation is critical to our growth, and negative publicity could damage our brand and thereby harm our ability to compete effectively, and could materially adversely affect our business, results of operations, and financial condition.
 ```
 
+
 ## what i like about airbnb
 - founder led company with strong vision, hospitality, and care for others
 - founder's comp is tied to stock price growth, via 10 tranches. S1 page 313
@@ -82,6 +88,7 @@ Maintaining and enhancing our brand and reputation is critical to our growth, an
 - airbnb can scale globally faster than a hotel chain since they are a platform. they also dont have to pay real estate costs
 - the amount paid to airbnb by host/guest is substantial, 12-15%. if a property rents for $3k a month, $36k/year, airbnb takes $3-4k of that as platform fees
 
+
 ## stock's story
 - follow as a growth story, not profitable yet. look for growth stat increases instead of eps
 - see how covid/travel impacts revenue #'s and investor sentiment
@@ -89,6 +96,7 @@ Maintaining and enhancing our brand and reputation is critical to our growth, an
 - follow tsa travel flight numbers
 - a lot of pent up travel demand will release once this pandemic passes
 - factor in that it's a ~13 yr company, and employees can finally sell shares
+
 
 ## misc
 #### Glossary of Terms, S1 page 148

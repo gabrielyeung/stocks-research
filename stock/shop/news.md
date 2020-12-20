@@ -1,16 +1,19 @@
 # SHOP news
 
+https://news.shopify.com/category/product-news
+
 
 ### 12/8/2020
 - [Shopify President Harley Finkelstein on predictions in e-commerce in 2021](https://www.youtube.com/watch?v=-NWQGB3d85A)
 - https://news.shopify.com/charging-ahead-shopifys-first-annual-future-of-commerce-report-reveals-five-trends-brands-need-to-know-in-2021
 - https://www.shopify.com/future-of-commerce/2021
-  
+
 1. Young consumers will change the business landscape as ecommerce charges ahead
 2. Physical retail will transform as we know it, giving local businesses new advantages
 3. Consumers want to shop independent. Businesses will adapt to make that easier
 4. More consumers will vote with their wallets
 5. Modern financial solutions will disrupt business and consumer banking, finance, and lending
+
 
 ### 12/1/2020
 https://www.businesswire.com/news/home/20201201005650/en/Shopify-Merchants-Break-Records-with-5.1-Billion-in-Worldwide-Sales-over-Black-FridayCyber-Monday-Weekend
@@ -27,3 +30,11 @@ Black Friday/Cyber Monday weekend results
 - Japan (347%), Italy (211%), Germany (189%), and UK (122%) saw triple-digit growth of sales on the platform since last year.
 - Apparel and accessories held the top spot for sales across Shopify-powered stores this weekend, with health and beauty, and home and garden following.
 ```
+
+
+### 10/7/2020
+https://techcrunch.com/2020/10/27/tiktok-invests-in-social-commerce-via-new-shopify-partnership/
+
+
+### 5/7/2020
+https://news.shopify.com/shopify-and-pinterest-launch-new-channel-allowing-merchants-to-target-platforms-350m-monthly-users

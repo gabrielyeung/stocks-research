@@ -30,3 +30,7 @@
 4. giga berlin ~8/2021
 5. giga texas + cyber truck, 650k preorders
 6. FSD, level 5
+
+
+## master plan
+[Elon Reviews Tesla Master Plan. Master Plan Part 2 Update 11th December 2020](https://www.youtube.com/watch?v=se2cK1xlKwg)
