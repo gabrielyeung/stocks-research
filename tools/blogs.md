@@ -1,4 +1,3 @@
-
 # Blogs
 
 - https://www.good-investing.net/

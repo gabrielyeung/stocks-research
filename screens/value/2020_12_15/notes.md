@@ -4,7 +4,6 @@
   - > 800M, ~ mainly < 30B MC
   - moat / management, good
   - closing price ~ < mos
-
 ```
 
 ## bucket 1a - nice

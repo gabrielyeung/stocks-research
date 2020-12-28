@@ -40,6 +40,8 @@ It all aligns with our purpose of economic empowerment—we are helping all kind
   - debit card personalization design UX
   - boosts (10% off doordash, grocery etc)
   - bitcoin access
+- merchant side business
+  - product ecosystem
 
 ## stock's story
 - cash app yoy growth is the primary growth story
@@ -56,4 +58,5 @@ It all aligns with our purpose of economic empowerment—we are helping all kind
 
 ## catalyst
 - quarterly earnings cash app #'s
+- Q4 btc numbers, refer to *11/7/2020 news article*
 - after SQ hits 4 quarters of positive EPS, can look for S&P500 inclusion news

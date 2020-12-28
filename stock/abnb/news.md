@@ -4,6 +4,19 @@
 https://www.retirebeforedad.com/airbnb-stock/
 
 
+### 12/17/2020
+https://twitter.com/fradeduarte/status/1339616298976702465
+**Nice Overview**
+```
+$ABNB revenue
+2014 - $423 million
+2015 - $900 million
+2016 - $1.7 billion
+2017 - $2.6 billion
+2018 - $3.6 billion
+2019 - $4.7 billion
+```
+
 
 ### 11/16/2020
 https://www.pbs.org/newshour/economy/airbnb-details-years-of-losses-ahead-of-planned-ipo
