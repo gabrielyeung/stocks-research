@@ -41,8 +41,6 @@ If you had bought every company on the same day I wrote about, or IPO’d it, yo
 My commitment to you is to continue to find investments, put a bunch of my money in it and share them with you.
 ```
 
-
-## Misc SPAC News
 ### 10/8/2020
 https://twitter.com/chamath/status/1314417023586201601?lang=en
 IPOD: $400M
@@ -51,3 +49,12 @@ IPOF: $1B
 
 ### 9/18/2020
 https://www.benzinga.com/news/20/09/17571766/chamath-palihapitiya-launches-three-more-spacs-ipod-ipoe-ipof
+
+
+
+
+
+## Misc SPAC News
+
+### 12/29/2020
+[$FUSE, $AACQ](https://www.youtube.com/watch?v=lpKvgoNOa4k)

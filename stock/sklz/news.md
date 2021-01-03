@@ -1,7 +1,14 @@
 # SKLZ news
 
 
+### 1/2/2021
+https://twitter.com/investorwisdom/status/1345551997278191619
+https://sporttechie.com/nfl-invests-mobile-esports-skillz
+```
+Some type of #NFL + #esports deal is coming imo.
 
+November 21, 2019 --> The NFL Invests in Mobile Esports Platform Skillz
+```
 
 
 ### 12/25/2020

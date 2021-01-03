@@ -1,11 +1,83 @@
 # Ideas
 
 
+### 1/2/2021
+https://twitter.com/cperruna/status/1345513672144257024
+```
+$LVGO $ZM $SE $CRWD $SQ $SNAP $SHOP $MDB $ROKU $OKTA $PYPL $STNE $WORK $TCEHY $CGC
+```
+
+https://twitter.com/theefinanceguy/status/1345578611085078529
+*gives a short blurb on each too**
+```
+Below are 10 stocks I like heading into 2021.
+$TDOC $FB $SKLZ $ROKU $TTCF $SE $PINS $TTD $DDOG $LMND
+```
+
+
+### 1/1/2021
+https://twitter.com/JoeySolitro/status/1345082319753912331
+```
+21 building blocks for 2021 (alphabetical):
+
+1) $ABNB 2) $CHWY 3) $CRWD 4) $DDOG 5) $DOCU 6) $ESTC 7) $ETSY
+8) $FSLY 9) $FTCH 10) $MDB 11) $MELI 12) $NET 13) $OPEN  14) $PINS
+15) $PLTR 16) $PYPL 17) $ROKU 18) $SE 19) $SQ  20) $TDOC 21) $TWLO
+```
+
+https://twitter.com/anandchokkavelu/status/1344971468191502337
+```
+My 21 stocks for 2021:
+
+$IRBT $UPWK $FVRR $RDFN $BYND $ETSY $TDOC $ZG / $Z
+$PINS $ROKU $MO $MELI $ISRG $SQ $SE $PM $CRM
+$DIS $BRK.B #Bitcoin $AMZN
+
+Bonus baskets:
+$ARKG
+A basket of the @chamath alphabet SPACS ( $SPCE, $OPEN, $IPOC, $IPOD, $IPOE, $IPOF)
+```
+
+https://twitter.com/imneel0207/status/1345194349504548866
+```
+this is most common among (fintwit commmunity)
+$SE $SHOP $SQ $TDOC $CRWD $ROKU $OKTA $MELI $NET $TWLO
+```
+
+https://twitter.com/MarlonPieris/status/1345142674840543239
+```
+2021 lists from @cperruna @PoundingDaTable @JoeySolitro @PatternProfits
+-  an aggregated overlap list
+On all 4 lists
+$SE $NET
+
+3/4
+$ETSY $TDOC $ROKU $SQ $CRWD $TWLO $DDOG $FTCH
+
+2/4
+$FVRR $PINS $CHWY $PYPL $FSLY $APPS $MDB $PTON
+$DOCU $ABNB $GRWG $PGNY $SKLZ $PLTR $U $MELI
+```
+
+
+### 12/29/2020
+https://twitter.com/anandchokkavelu/status/1343995043602948098
+```
+The top 5 buckets in my portfolio:
+1) E-commerce - 18% ( $PINS, $ETSY, $MELI)
+2) Consumer - 13% ( $MIK, $DIS, $IRBT)
+3) Digital Disruption - 9% ( $RDFN, $ZG, $TWOU)
+4) Connected TV/Advertising - 7% ( $MGNI, $TTD, $ROKU)
+5) SaaS-ish - 6% ( $SHOP, $TWLO, $FSLY)
+```
+
+
 ### 12/27/2020
-https://twitter.com/roman19__/status/1343206319780671494
+https://twitter.com/RayTL_/status/1343201309290242048
 ```
 Weekly Scan of Mark Minervini Trend Template
 ```
+
 
 ### 12/26/2020
 https://twitter.com/choffstein/status/1342985529709584384
@@ -28,6 +100,7 @@ Data is the New Oil- $DDOG, $MDB
 Infrastructure- $FSLY, $TWLO, $NET
 Wellness- $TDOC, $PTON
 ```
+
 
 ### 12/24/2020
 https://twitter.com/Soumyazen
@@ -91,6 +164,7 @@ Since I get lots of DM's asking about my current portfolio and what I own, I dec
 
 ### 12/21/2020
 https://twitter.com/ztinvesting/status/1341137777484820480
+**Gold**
 ```
 I like to think about managing my portfolio like an NBA GM thinks about managing his basketball team.
 ```
@@ -114,10 +188,12 @@ I invest in companies that can
 ```
 
 https://twitter.com/david_kretzmann/status/1341188504563408899
+**Gold**
 ```
 Name the BEST thinkers and researchers on any of these following companies (bullish or bearish):
 $TSLA $SHOP $AAPL $AMZN $TTD $NVDA $TDOC $ROKU $PYPL $WIX $FSLY $ZM $DDOG $TEAM $CRWD $CHGG
 ```
+
 
 ### 12/18/2020
 https://twitter.com/juliey4/status/1340004840785682432
@@ -126,12 +202,14 @@ https://www.portfolio-performance.info/en/
 This was driven mostly by gains in $TWLO, $SHOP, $SE, $FSLY, $ETSY, and $BILI
 ```
 
+
 ### 12/3/2020
 https://twitter.com/jonahlupton/status/1334575294120947712
 https://jonahlupton.substack.com/p/26-stocks-under-10-billion-market
 https://jonahlupton.substack.com/p/26-stocks-under-10-billion-market-e83
-https://jonahlupton.substack.com/p/26-stocks-under-10-billion-market-3c4
-
+```
+$BAND $BRP $CRON $GRWG $EAR $FUBO, etc...
+```
 
 
 ### 11/25/2020

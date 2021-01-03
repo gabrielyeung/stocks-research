@@ -1,9 +1,73 @@
 # Protips
 
 
+### 1/2/2021
+https://twitter.com/liviamcapital/status/1345465408543985665
+*consider both MC and TAM*
+```
+People comparing market caps need to look at opportunity set too.
+
+Don’t just buy a $5B business because it is 20x smaller than a $100B business. The bigger business might be way earlier into penetrating its TAM.
+```
+
+from RY
+*prepare beforehand*
+```
+When it’s least expected and something goes wrong U have to have a plan ready beforehand bc u don’t know when the least expected will happen
+```
+
+
+### 1/1/2021
+https://twitter.com/pj_matlock/status/1345016566727979008
+**Position sizing**
+```
+Little example of position sizing and why it’s important. This is why I say to go bigger in the right ones and smaller in the ones you’re more unsure of.
+```
+
+https://twitter.com/raytl_/status/1345070973809172481
+https://twitter.com/RayTL_/status/1345070973809172481/photo/1
+*chart analysis*
+```
+I highlight how my current process can possibly fetch another TSLA
+
+Notes
+*Highest Volume in Over a Year + Earnings Catalyst in late October
+*Volume Dry Ups on sideways/down price action
+```
+
+https://twitter.com/raytl_/status/1345042569219096578
+*takes time, lots to learn*
+```
+"It took me five years to learn to play the game intelligently enough to make big money." - Livermore
+
+If you are new & you had a great year in the markets, please don't run up the ego train. Markets are very hard & there's a lot of pain you'll have to endure the first few yrs.
+```
+
+
+### 12/30/2020
+https://twitter.com/raytl_/status/1344753777765564416
+*do your homework ahead of time so that when unexpected events arise, you are prepared to handle them*
+```
+What a year!
+A market that corrected from Feb 24 to March 19 & a once in a lifetime opportunity for those of us that have traded for multiple years!
+It was forgiving, rewarded us for our discipline during a corrective phase & our indiscipline at times. Can't ask for more.
+```
+```
+Focus on incremental personal improvement. Nobody else's performance or progress matters but your own. Look at yourself for answers and your past trades as a way to improve upon yourself. Trading is a personal journey keep it that way. Always! 🤟👍🔥🦁💯🙏
+```
+
+
+### 12/27/2020
+https://twitter.com/RayTL_/status/1343417775268581376
+```
+Don’t let anyone tell you how to position size.
+Position size is based on your risk appetite, where ur in your journey, how well you’ve studied the markets, emotional response to drawdowns & so many other factors
+```
+
+
 ### 12/22/2020
 https://twitter.com/richard_chu97/status/1341835760341823495
-Factor in TAM
+*Factor in TAM*
 ```
 People always ask, "what's the next Tesla", and the truth is that 99.99% of companies are never going to be even close to $TSLA because the markets are too small.
 
@@ -44,7 +108,6 @@ A decent starting point:
 3. Know the company's product and customers inside-out
 ```
 
-
 https://twitter.com/raytl_/status/1340876851779026944
 https://twitter.com/raytl_/status/1340761532255236096
 ```
@@ -53,6 +116,15 @@ start a daily/weekend routine
 ```
 https://twitter.com/MxAlexsilva/status/1340866620500140034/photo/1
 https://twitter.com/Illumined1/status/1340692988549341185/photo/1
+
+
+### 11/1/2020
+https://twitter.com/anandchokkavelu/status/1322862362714689536
+```
+Here are the 100 things I’ve learned in investing.
+
+I’ve updated this over the years to 1) Share 2) Reduce my own unforced errors 3) Reinforce the good habits, like #47.
+```
 
 
 ### 5/18/2020
