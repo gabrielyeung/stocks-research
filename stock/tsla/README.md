@@ -16,6 +16,9 @@
 ### mos
 
 ## product highlights
+- robotaxi
+- Tesla Energy, Insurance
+- plaid
 
 ### cyber truck
 https://www.cybertruckownersclub.com/
@@ -49,8 +52,6 @@ https://twitter.com/garyblack00/status/1341707900142706689
 4. giga berlin ~8/2021
 5. giga texas + cyber truck, 650k preorders
 6. FSD, level 5
-7. robotaxi
-8. Tesla Energy, Insurance
 
 https://twitter.com/garyblack00/status/1339179956027478016
 ```

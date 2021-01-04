@@ -1,6 +1,11 @@
 # TSLA news
 
 
+### 1/3/2021
+[Plaid Model S Coming!?](https://www.youtube.com/watch?v=XrPI9htx8Ds)
+- Gali's clips of Elon reflecting on his timeline estimates and pondering sandbagging concept, @5"
+
+
 ### 1/2/2021
 https://ir.tesla.com/press-release/tesla-q4-2020-vehicle-production-deliveries
 ```

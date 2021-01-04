@@ -3,6 +3,13 @@
 
 ## News
 
+
+### 1/2/2021
+[A Warning To ARK Investors (Cathie Wood) | Joseph Carlson Ep. 132](https://www.youtube.com/watch?v=g1KP06rVEM8)
+- note: human behavior of chasing into funds that over-performed.
+- note: future performance does not necessarily mirror past performance
+
+
 ### 12/27/2020
 [👀 Tracking ARK Invest in 2021 - Best Tools and Communities to Be In the Know on ARK's Trades & News!](https://www.youtube.com/watch?v=O4AG1cz01rw)
 **Gold: covers a lot of good resources here**
