@@ -1,6 +1,10 @@
 # SKLZ news
 
 
+### 1/4/2021
+M 1/4, ARKW initiates position in SKLZ
+
+
 ### 1/2/2021
 https://twitter.com/investorwisdom/status/1345551997278191619
 https://sporttechie.com/nfl-invests-mobile-esports-skillz
@@ -31,6 +35,9 @@ Let me just say, this is even better than what I imagined!
 
 ### 12/18/2020
 https://twitter.com/Soumyazen/status/1340009646598225920
+```
+4> Skillz is not a gaming company. It is a framework that supports competitive gaming and sports and has a much much superior business model than any game developers by themselves who bear the cost of content and the burden of "innovation that works". Shopify for Games
+```
 
 
 ### 12/16/2020

@@ -4,6 +4,7 @@
 ### 1/2/2021
 https://twitter.com/cperruna/status/1345513672144257024
 ```
+Stocks to Watch 2020 | FINAL Results
 $LVGO $ZM $SE $CRWD $SQ $SNAP $SHOP $MDB $ROKU $OKTA $PYPL $STNE $WORK $TCEHY $CGC
 ```
 
@@ -113,6 +114,7 @@ Also hold $MGNI $NVTA $AAPL $NFLX in smaller portions
 ```
 
 https://twitter.com/jonerlichman/status/1342109494227173376
+*perspective: 5 yr lens*
 ```
 Value today of $1,000 invested
 five years ago:

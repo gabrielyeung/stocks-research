@@ -1,6 +1,13 @@
 # NIO news
 
 
+### 1/4/2021
+[Oh no! Xpeng stock and Nio stock](https://youtu.be/nho9-54Rlw4?t=162)
+chicken gennius, doesnt like:
+- BaaS
+- that nio manufacturing is outsourced
+
+
 ### 12/1/2020
 https://www.reddit.com/r/StockMarket/comments/k4jb42/nio_inc_provides_november_2020_delivery/
 NIO Inc. Provides November 2020 Delivery Update-Company Achieved Another New Record-High Monthly Deliveries
@@ -13,3 +20,12 @@ NIO delivered 5,291 vehicles in November 2020, a new monthly record representing
 [Investors Translate Weibo Posts to Gauge Stock Interest in $NIO](https://www.youtube.com/watch?v=5SGT-Z1tVKU)
 - leon's research 9/29/2020
 - https://docs.google.com/document/d/13KSI6RjG9fcTDaEMrOk485tFTTbq0nfOK4ZPC3UZyBA
+```
+Update 10/14/2020
+https://www.bloomberg.com/news/articles/2019-02-27/in-beijing-you-have-to-win-a-license-lottery-to-buy-a-new-car
+Just learned that if Shanghai citizens wanted to buy a gas driven car, there’s a 20k tax put on top of that. In Beijing in order to buy a car you have to take part in a lottery, the chance to win the ability to buy a gas fueled car is 0.000003%, while the chance for an EV car is 8%. The Chinese government is aggressively pushing a China green policy.
+
+
+Nio ES6 was recently selected as the ground support vehicle at the Beijing - DaXing International Airport.
+
+... NIO has entered into a strategic cooperation with Intel's autonomous driving technology company Mobileye to build An L4-level autonomous vehicle based on NIO's second-generation vehicle platform ...

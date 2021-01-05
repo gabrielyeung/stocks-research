@@ -12,3 +12,12 @@ Amsterdam, Los Angeles, New York, Paris, and Shanghai.
 And Ingka Group wants it to go even faster, so the deadline has been brought forward:
 100% of IKEA deliveries in these cities will be emission-free as soon as 2020.
 ```
+
+
+### MA
+https://www.caranddriver.com/news/a35104768/massachusetts-ban-new-gas-cars-2035/
+12/30/2020
+```
+Massachusetts to Ban Sale of New Gas-Powered Cars by 2035
+The measure follows California’s plan to reduce greenhouse-gas emissions in an effort to combat climate change.
+```
