@@ -1,7 +1,11 @@
 
 
-battery as a service
-- subscription model
+## Product Highlights
+1. battery swap -> (6 free battery swaps a month). solution makes sense for population-dense cities in China. (most ppl live in apts and dont have access to at-home charger)
+2. BaaS, rent the battery -> subscription revenue model
+3. nio house community -> used to grow nio community
+4. nomi -> neat siri/alexa-like tool
+5. luxurious interior -> product branding/what they want to be known for
 
 
 ## Videos on Nio experience
@@ -43,4 +47,4 @@ Mr. P:
 ```
 
 [Matt Black NIO EC6 + How this guy charges his car is BEYOND INSANE!](https://www.youtube.com/watch?v=fKsiim74H24)
-1 tap to charge. can buy vouchers to hire a guy to come drive your car off to battery swap and drive back
+- 1 tap to charge. can buy vouchers to hire a guy to come drive your car off to battery swap and drive back
