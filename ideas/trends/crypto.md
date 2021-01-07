@@ -25,9 +25,26 @@ https://docs.google.com/document/d/1dhxI_TEl65kjZrgzM3C1gl0Z6IFDXkTnAJm9QCQprh0
 https://www.blockchaincenter.net/bitcoin-rainbow-chart/
 https://www.lookintobitcoin.com/charts/stock-to-flow-model/
 
+## Thoughts
+### Dave Lee
+- [Bitcoin RISKS: Chat with ARK Invest's Yassine Elmandjra (Ep. 199)](https://www.youtube.com/watch?v=DLMJGs4yARw)
+- [Poking Holes in the Bitcoin Bull Case - Chat With Anthony Pompliano (Ep. 176)](https://www.youtube.com/watch?v=SA_80nusQns)
+- [What's Bitcoin's Future? Chat With Nic Carter of CoinMetrics (Ep. 215)](https://www.youtube.com/watch?v=r1EUdNQm2NI)
+- [Why I’m Growing More Skeptical Of Bitcoin (Ep. 213)](https://www.youtube.com/watch?v=SHxxo0C8bUU)
+
+
 
 
 ## News
+
+
+### 1/4/2021
+https://twitter.com/jerallaire/status/1346233132396257282
+https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html
+```
+Breaking major news from US Treasury OCC, the largest US banking regulator, with new guidance allowing US banks to use public blockchains and dollar stablecoins as a settlement infrastructure in the US financial system
+```
+
 
 ### 1/2/2021
 https://twitter.com/saxena_puru/status/1345558465712775169
@@ -86,3 +103,7 @@ It really is different this time and fortunately sustainable.
 
 ### 4/29/2020
 [SHOULD YOU BUY BITCOIN NOW?](https://www.youtube.com/watch?v=rwxXMcq50mo)
+
+
+### 2/20/2020
+[What Do YOU Need to MINE ONE BITCOIN In 2020?!](https://www.youtube.com/watch?v=5V_Ap0Iy_M0)

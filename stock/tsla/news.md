@@ -1,6 +1,25 @@
 # TSLA news
 
 
+### 1/4/2021
+https://twitter.com/jpr007/status/1346278566120488961
+```
+TESLA - SO HOW DO WE LOOK STARTING 2021 ?
+
+New All-Time High of $744.49 per share on 4 January 2021
+
+Price range from discounted 2031 Valuation :
+
+10x = $657 per share
+
+20x = $1,315 per share
+
+ATH implied 2031 P/E = 11.3x
+```
+http://maximum-pain.com/options/TSLA
+^^ what does this do?
+
+
 ### 1/3/2021
 [Plaid Model S Coming!?](https://www.youtube.com/watch?v=XrPI9htx8Ds)
 - Gali's clips of Elon reflecting on his timeline estimates and pondering sandbagging concept, @5"

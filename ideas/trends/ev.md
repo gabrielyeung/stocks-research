@@ -21,3 +21,19 @@ https://www.caranddriver.com/news/a35104768/massachusetts-ban-new-gas-cars-2035/
 Massachusetts to Ban Sale of New Gas-Powered Cars by 2035
 The measure follows California’s plan to reduce greenhouse-gas emissions in an effort to combat climate change.
 ```
+
+
+### Battery material
+https://twitter.com/jonahlupton/status/1346315904490070016
+https://twitter.com/chamath/status/1346307258397773826
+1/4/2021
+```
+Recently, I've been learning about the mining needed to produce the key inputs (Li, Ni, Co, Nd, Pr etc) into batteries and electric motors.
+```
+
+
+### EV players overview
+https://twitter.com/raytl_/status/1346169315200888832
+```
+<picture, see ev folder> Summarizes the EV landscape well.
+```

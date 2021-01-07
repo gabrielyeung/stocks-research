@@ -1,8 +1,17 @@
 # SKLZ news
 
 
+### 1/5
+https://twitter.com/saxena_puru/status/1346575255867858946
+```
+Founder/CEO owns ~22% of the business - skin in the game
+```
+
+
 ### 1/4/2021
 M 1/4, ARKW initiates position in SKLZ
+https://twitter.com/seajewce/status/1346260750214508548
+https://poundingthetablepodcast.com/
 
 
 ### 1/2/2021

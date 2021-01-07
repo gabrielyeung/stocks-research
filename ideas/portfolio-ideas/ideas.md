@@ -1,6 +1,21 @@
 # Ideas
 
 
+### 1/4/2021
+https://twitter.com/dbstrauss55/status/1346301616899514368
+Best 25 investors & thinkers on Twitter: ...
+
+https://twitter.com/cperruna/status/1346240458964533248
+```
+Average QoQ Sales growth of list: 59%
+Average Fund Sponsorship growth: 155%
+
+I focus heavily on these two items!
+
+$TDOC* $PINS* $CRWD* $FSLY* $NET $APPS $DDOG* $U $PTON $ROKU* $ZM* $DOCU $CRM $UBER* $ABNB
+```
+
+
 ### 1/2/2021
 https://twitter.com/cperruna/status/1345513672144257024
 ```

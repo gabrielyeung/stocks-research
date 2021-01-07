@@ -1,6 +1,14 @@
 # AMZN news
 
 
+### 1/3/2021
+https://twitter.com/kermitcapital/status/1345855654599208962
+```
+"The conversion rate on our website was 0.7% in 2020. The conversion rate for a typical $AMZN item for us is about 40%."
+"It costs a lot of money to store your products in $AMZN's fulfillment centers... $AMZN's service was spotty this year but being able to reach 99.99% of America with 1-2 days is pretty awesome & a big driver of why $AMZN owns 93.4% of our sales."
+```
+
+
 ### 12/1/2020
 https://www.cnbc.com/2020/12/01/amazon-announces-black-friday-cyber-monday-2020-results.html
 https://www.aboutamazon.com/news/retail/supporting-small-saving-big-and-shopping-early

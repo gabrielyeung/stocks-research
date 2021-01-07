@@ -1,6 +1,17 @@
 # NIO news
 
 
+### 1/6
+https://www.youtube.com/watch?v=ay5E37oaFTg
+`🤷🏻‍♂️ Is NIO Battery Swapping a Dumb Idea?`
+
+
+### 1/5/2021
+https://www.youtube.com/watch?v=XrgH07lwfVM
+`Tesla vs. NIO: Battle for the World’s Largest EV Market | WSJ`
+-> nice video of the battery swap process
+
+
 ### 1/4/2021
 [Oh no! Xpeng stock and Nio stock](https://youtu.be/nho9-54Rlw4?t=162)
 chicken gennius, doesnt like:
@@ -10,7 +21,7 @@ chicken gennius, doesnt like:
 
 ### 12/1/2020
 https://www.reddit.com/r/StockMarket/comments/k4jb42/nio_inc_provides_november_2020_delivery/
-NIO Inc. Provides November 2020 Delivery Update-Company Achieved Another New Record-High Monthly Deliveries
+`NIO Inc. Provides November 2020 Delivery Update-Company Achieved Another New Record-High Monthly Deliveries`
 https://www.globenewswire.com/news-release/2020/12/01/2137180/0/en/NIO-Inc-Provides-November-2020-Delivery-Update.html
 NIO delivered 5,291 vehicles in November 2020, a new monthly record representing a solid 109.3% year-over-year growth. The deliveries consisted of 1,387 ES8s, the Company’s 6-seater and 7-seater flagship premium smart electric SUV, 2,386 ES6s, the Company’s 5-seater high-performance premium smart electric SUV, and 1,518 EC6s, the Company’s 5-seater premium electric coupe SUV. NIO delivered 36,721 vehicles in 2020 in total, representing an increase of 111.1% year-over-year. As of November 30, 2020, cumulative deliveries of the ES8, ES6 and EC6 reached 68,634 vehicles.
 
