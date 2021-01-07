@@ -30,6 +30,7 @@ https://www.cybertruckownersclub.com/forum/threads/cybertruck-reservation-order-
 
 ### 12/23/2020
 https://twitter.com/garyblack00/status/1341707900142706689
+```
 1/ Huge EV runway ahead, with global EV penetration now 3% likely to go to 20% by 2025 (6x increase = +46% CGR).
 2/ TSLA’s EV share continues to grow - not fall - as TAM expands, even as ICE competitors launch their own EVs. New EVs take from ICE vehicles, not other EVs. This is biggest research flaw in short thesis.
 3/ $TSLA has several positive Jan catalysts to propel it higher: 4Q vols (181K vs 172K Street, 1/4), FSD MRR (1/15), MIC Y production (1/15), CyTruck update (1/15).
@@ -40,6 +41,7 @@ https://twitter.com/garyblack00/status/1341707900142706689
 8/ $TSLA Cybertruck, Semi, and Roadster will all launch in 2021-22. Cybertruck alone could add 250-300K delivs each in FY’22 & FY’23, given a reported 750K in pre-orders that will likely prove very sticky, given CyTrck’s uniqueness. Every 250K CyTruck delivs worth $2/sh incr EPS.
 9/ With S&P inclusion, $8T in active mgr assets will have to make a conscious decision to hold or not hold $TSLA at 1.69% bm weight, or risk underperformance (85% mgrs underperformed S&P past 5 yrs). At 1.69% weight, that equals 210 shares (27% float). This is huge Jan catalyst.
 10/ $TSLA EPS continues to outrun its multiple. As the calendar flips to 2021 and portfolio mgrs assess TSLA, it starts to look “too cheap” rel to forward growth. At $632, $TSLA sells at 67x FY’22 EPS, vs 132x FY’21 EPS. At 1.2x PEG of 50%+ Vol & EPS growth, only $FB is cheaper.
+```
 
 ## risks
 
