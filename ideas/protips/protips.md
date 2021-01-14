@@ -1,6 +1,19 @@
 # Protips
 
 
+### 1/8/2021
+https://twitter.com/raytl_/status/1347661888994201600
+constructive price action
+
+
+### 1/7/2021
+https://twitter.com/apompliano/status/1347386011630841856
+https://katusaresearch.com/asymmetry-financial-secret-can-earn-10000-returns-no-joke/
+```
+Once you understand asymmetrical investing, you become addicted to finding the next opportunity.
+```
+
+
 ### 1/2/2021
 https://twitter.com/liviamcapital/status/1345465408543985665
 *consider both MC and TAM*
@@ -139,3 +152,12 @@ A lot of people ask about my trading method. It’s a combination of 4 very simp
 
 Simple.
 ```
+
+
+### 4/23/2020
+[How to 100x Your Money: The Power of Compound Growth (Ep. 61)](https://www.youtube.com/watch?v=nkOApFCFrOk)
+**Rule of 72**
+- power of compounding at a higher growth rate
+- nice examples to walk thru the concept and what it could look like given 30 years
+- also factor in dangers of chasing higher growth
+- find a sweet spot of high growth while managing risk

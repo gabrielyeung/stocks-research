@@ -1,6 +1,13 @@
 # AMZN news
 
 
+### 1/8/2021
+https://twitter.com/danrose999/status/1347677573900242944
+```
+I was at Amzn in 2000 when the internet bubble popped. Capital markets dried up & we were burning $1B/yr. Our biggest expense was datacenter -> expensive Sun servers. We spent a year ripping out Sun & replacing with HP/Linux, which formed the foundation for AWS. The backstory: ...
+```
+
+
 ### 1/3/2021
 https://twitter.com/kermitcapital/status/1345855654599208962
 ```

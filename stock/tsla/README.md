@@ -15,10 +15,12 @@
 
 ### mos
 
+
 ## product highlights
 - robotaxi
 - Tesla Energy, Insurance
 - plaid
+
 
 ### cyber truck
 https://www.cybertruckownersclub.com/
@@ -41,7 +43,9 @@ https://twitter.com/garyblack00/status/1341707900142706689
 9/ With S&P inclusion, $8T in active mgr assets will have to make a conscious decision to hold or not hold $TSLA at 1.69% bm weight, or risk underperformance (85% mgrs underperformed S&P past 5 yrs). At 1.69% weight, that equals 210 shares (27% float). This is huge Jan catalyst.
 10/ $TSLA EPS continues to outrun its multiple. As the calendar flips to 2021 and portfolio mgrs assess TSLA, it starts to look “too cheap” rel to forward growth. At $632, $TSLA sells at 67x FY’22 EPS, vs 132x FY’21 EPS. At 1.2x PEG of 50%+ Vol & EPS growth, only $FB is cheaper.
 
+
 ## risks
+
 
 ## catalysts
 [2021 Tesla Wipes out Competition | TSLA stock](https://www.youtube.com/watch?v=Cb-qHrVPIhc)
@@ -66,6 +70,20 @@ $TSLA catalysts - 12/16:
 8/ FY’21 Deliv 840K v 775K (1/27)
 $830 PT 6-12mo
 ```
+https://twitter.com/garyblack00/status/1347537523917012996
+```
+$TSLA catalysts - 1/8:
+1/ $8T Active Mgr buying (now)
+2/ Street ups FY’21 Est/PTs (now)
+3/ MIC Y launch (now
+4/ CyTrck update (1/15)
+5/ FSD MRR launch (1/15)
+6/ Biden inaugural/EV credit (1/20)
+7/ 4Q EPS $1.06 v $0.96 (1/27)
+8/ FY’21 Deliv 840K v 777K (1/27)
+$1,000 PT 6-12 mo.
+```
+
 
 ## master plan
 [Elon Reviews Tesla Master Plan. Master Plan Part 2 Update 11th December 2020](https://www.youtube.com/watch?v=se2cK1xlKwg)

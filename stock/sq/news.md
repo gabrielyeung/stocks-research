@@ -25,6 +25,9 @@ https://twitter.com/KermitCapital/status/1339644326155087873
 https://twitter.com/KermitCapital/status/1341088935196409859
 SQ btc giveaway campaign via twitter influencers
 
+[My Next 10x Stock | JUST Bought $200,000](https://www.youtube.com/watch?v=JMTfil4M8qI)
+S-curve potential, 2025-2028 sweet spot years?
+
 
 ### 11/7/2020
 https://news.bitcoin.com/cash-app-bitcoin-revenue-billion-square/

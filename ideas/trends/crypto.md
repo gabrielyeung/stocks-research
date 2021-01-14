@@ -38,6 +38,15 @@ https://www.lookintobitcoin.com/charts/stock-to-flow-model/
 ## News
 
 
+### 1/9/2021
+[Bitcoin is NOT digital Gold](https://www.youtube.com/watch?v=0ySj77Uq4eo)
+`chamath - it's basically schmuck insurance in case the people in charge really eff it up`
+
+
+### 1/7/2021
+[Bitcoin going to $100K, then $150K, then $200K: Palihapitiya](https://www.youtube.com/watch?v=o4JEVCLJxDw)
+
+
 ### 1/4/2021
 https://twitter.com/jerallaire/status/1346233132396257282
 https://www.occ.gov/news-issuances/news-releases/2021/nr-occ-2021-2.html
@@ -107,3 +116,9 @@ It really is different this time and fortunately sustainable.
 
 ### 2/20/2020
 [What Do YOU Need to MINE ONE BITCOIN In 2020?!](https://www.youtube.com/watch?v=5V_Ap0Iy_M0)
+
+
+### 12/12/2017
+[Former Facebook Exec Chamath Palihapitiya On Social Media, Bitcoin, And Elon Musk (Full) | CNBC](https://www.youtube.com/watch?v=5zyRpq2ODrE)
+- chamath says buy 1% as schmuck insurance
+- @17" - says took him 18 months to understand it

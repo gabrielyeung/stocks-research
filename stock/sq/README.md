@@ -24,6 +24,8 @@ It all aligns with our purpose of economic empowerment—we are helping all kind
 
 ### management
 - founder led, Jack Dorsey
+- [SQ stock analysis video](https://www.youtube.com/watch?v=rpykRV5MgDk) - chicken genius
+
 
 ### moat
 - high-switching costs moat:

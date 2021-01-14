@@ -1,6 +1,27 @@
 # TSLA news
 
 
+### 1/21
+[Are EV Stocks In A Bubble? (Tesla, NIO, Xpeng)](https://www.youtube.com/watch?v=Vwb2UrZRQR0)
+-
+
+
+### 1/8/2021
+[Billionaire Investor: Don't Bet Against Elon or Tesla (Stick With Winners)](https://www.youtube.com/watch?v=quvZIeBu7cM)
+- stage 1: people realizing tsla will dominate vehicle production
+- stage 2: robotaxi's
+- stage 3: energy opportunity
+- 5T MC in 2030?
+
+
+### 1/7/2021
+*TSLA closed at $816.04*
+[My Reaction to Elon Musk Becoming World’s #1 Richest Person (Ep. 228)](https://www.youtube.com/watch?v=RFc_kXyUMpg)
+[Palihapitiya on Elon Musk: World's richest person should be somebody that's fighting climate change](https://www.youtube.com/watch?v=CyNtwHoXC9w)
+- why bet against him?
+- "when the music is on, u gotta dance"
+
+
 ### 1/4/2021
 https://twitter.com/jpr007/status/1346278566120488961
 ```

@@ -1,6 +1,31 @@
 # Ideas
 
 
+### 1/9
+[Revealing my ENTIRE $20 Million Dollar Stock Portfolio](https://www.youtube.com/watch?v=cpVOLWL8VX8)
+ideas on handling a 20 M acct
+
+
+### 1/8
+https://twitter.com/dannyvena/status/1347553047526838275
+https://www.fool.com/investing/2021/01/08/6-stocks-riding-unstoppable-trends-richer-2021/
+```
+#streamingvideo #digitaladvertising #ecommerce #gigeconomy #cybersecurity #identityverification #accessmanagement
+$FVRR $DIS $SHOP $ROKU $ZS $CRWD
+```
+
+https://twitter.com/luoshengpeng/status/1347592185785376769
+**Gold**
+```
+The 1st week of 2021 reassured the future trends:
+
+1. Genomics (30 yrs)
+2. EV/New Energy (20 yrs)
+3. 5G (10 yrs)
+4. Cryptocurrency (5-10 yrs)
+```
+
+
 ### 1/4/2021
 https://twitter.com/dbstrauss55/status/1346301616899514368
 Best 25 investors & thinkers on Twitter: ...

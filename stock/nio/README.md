@@ -6,6 +6,7 @@
 3. nio house community -> used to grow nio community
 4. nomi -> neat siri/alexa-like tool
 5. luxurious interior -> product branding/what they want to be known for
+6. nio store/ ecom (fulfilled by JD)/ nio points -> https://www.youtube.com/watch?v=evjLan1XbKY
 
 
 ## Videos on Nio experience

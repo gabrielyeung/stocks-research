@@ -1,6 +1,21 @@
 # Fintech
 
 
+### 1/13
+[What China’s New Digital Currency Tells Us About a Cashless Future | WSJ](https://www.youtube.com/watch?v=_PFezEM_Mgg)
+- exploring the idea of digital currency
+- doesnt need internet to use
+- gov't would get full insight on how money is spent
+
+[Digital Yuan Explained: What It Will Mean To You?](https://www.youtube.com/watch?v=s4tSP9-o7ZQ)
+- based on NFC, works offline
+- can eliminate counterfeiting, money laundering
+- brings up privacy issue
+- expected to launch in the next 1-2 years
+- currently under going trials in 4 cities: shen zhen, suzhou, xiong'an, cheng du
+- believed to be piloted at Winter Olympics 2022
+
+
 ### 1/1/2021
 https://www.fool.com/investing/2021/01/01/why-2021-resolution-should-be-buy-more-fintech/
 ```

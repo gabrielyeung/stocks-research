@@ -1,11 +1,19 @@
 # US Admin
 
 
+### 1/9/2021
+https://www.nbcnews.com/politics/white-house/joe-biden-wants-set-aside-deficit-concerns-invest-ailing-u-n1253638
+```
+President-elect Joe Biden said Friday that he favors setting aside concerns about the federal deficit in order to spend more money to boost the ailing American economy.
+```
+
+
 ### 12/20/2020
 https://twitter.com/JoeBiden/status/1340721628154482691
 ```
  I’ll put America on a path to achieve a carbon-pollution free electricity sector by 2035
  ```
+*note: 1/13/2021, renewable energy sector seeing a lot of demand since late 12/2020*
 
 
 ### 12/19/2020

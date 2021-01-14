@@ -34,6 +34,7 @@ Recently, I've been learning about the mining needed to produce the key inputs (
 
 ### EV players overview
 https://twitter.com/raytl_/status/1346169315200888832
+*picture, see ev folder*
 ```
-<picture, see ev folder> Summarizes the EV landscape well.
+Summarizes the EV landscape well.
 ```

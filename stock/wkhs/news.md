@@ -1,6 +1,12 @@
 # WKHS news
 
 
+### 1/11/2021
+https://stocktwits.com/SICKofWinning/message/271514664
+https://www.youtube.com/watch?v=EnAKn0WDq74
+drone patents news
+
+
 ### 12/1/2020
 https://www.trucks.com/2020/12/01/postal-service-delays-mail-truck-replacement-contract-again/
 ```

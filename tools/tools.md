@@ -23,6 +23,7 @@
 - legit
   - charles schwab (recommend, good feature set, infrastructure/support, banking features/benefits)
   - fidelity
+  - [Schwab vs Fidelity vs Vanguard (DETAILED REVIEW)](https://www.youtube.com/watch?v=rAewPVEjeLM)
 - good/decent
   - merrill lynch
   - webull: decent ui, but like the infrastructure/banking benefits that schwab offers
