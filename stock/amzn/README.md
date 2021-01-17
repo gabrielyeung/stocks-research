@@ -22,6 +22,7 @@ asdf
 - aws
 - ads targeting
 - pharmacy
+- amazon go
 
 ## stock's story
 

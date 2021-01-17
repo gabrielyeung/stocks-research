@@ -1,6 +1,11 @@
 # MP news
 
 
+### 1/16/2021
+[China tightens rare-earth regulations, policing entire supply chain](https://www.youtube.com/watch?v=3SYemy5CVp0)
+https://asia.nikkei.com/Business/Markets/Commodities/China-tightens-rare-earth-regulations-policing-entire-supply-chain
+
+
 ### 12/20
 https://twitter.com/chamath/status/1340879328553426944
 ```

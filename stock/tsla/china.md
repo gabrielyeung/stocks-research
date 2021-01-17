@@ -1,6 +1,11 @@
 # China news
 
 
+### 1/14/2021
+[The Coming End of Tesla in China | Nio & Xpeng vs TSLA.](https://www.youtube.com/watch?v=WO6I18hDf70)
+- China probably needs Tesla til ~2030-35 to address climate/environment issues, dynamics might switch then
+
+
 ### 12/14/2020
 https://twitter.com/ray4tesla/status/1338615239282020352
 ```

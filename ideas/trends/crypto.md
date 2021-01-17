@@ -118,6 +118,15 @@ It really is different this time and fortunately sustainable.
 [What Do YOU Need to MINE ONE BITCOIN In 2020?!](https://www.youtube.com/watch?v=5V_Ap0Iy_M0)
 
 
+### 3/21/2018
+[Jack Dorsey Says Bitcoin = Single World Currency](https://www.youtube.com/watch?v=RWt8gzQCfAE)
+https://www.thetimes.co.uk/article/bitcoin-will-become-the-worlds-single-currency-tech-chief-says-66slm0p6b
+```
+Jack Dorsey, the CEO of Square & Twitter says Bitcoin could become the world's go-to digital currency within 10 years,
+rising to similar prominence as the US Dollar.
+```
+
+
 ### 12/12/2017
 [Former Facebook Exec Chamath Palihapitiya On Social Media, Bitcoin, And Elon Musk (Full) | CNBC](https://www.youtube.com/watch?v=5zyRpq2ODrE)
 - chamath says buy 1% as schmuck insurance

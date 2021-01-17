@@ -20,3 +20,8 @@
 [Chamath Palihapitiya: The Power of Slow Compounding](https://www.youtube.com/watch?v=a_8jOkj-9bg)
 - slow and steady against hard problems
 - try to rewire your brain to not be short-term focused
+
+
+### 2/4/2019
+[Don’t Try to Impress People! | Chamath Palihapitiya (Social Capital)](https://www.youtube.com/watch?v=ZxGC2zuXBuQ)
+- dont lose sight of what is really important

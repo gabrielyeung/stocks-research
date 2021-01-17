@@ -23,6 +23,14 @@ The measure follows California’s plan to reduce greenhouse-gas emissions in an
 ```
 
 
+### India
+https://www.bloomberg.com/news/articles/2017-05-15/india-s-radical-push-for-electric-vehicles
+```
+Indian auto manufacturers and international oil exporters have been aflutter since India’s government announced plans to make all its cars electric by 2030.
+“By [that year], not a single petrol or diesel car should be sold in the country,” Power Minister Piyush Goyal said at a Confederation of Indian Industry session last month.
+```
+
+
 ### Battery material
 https://twitter.com/jonahlupton/status/1346315904490070016
 https://twitter.com/chamath/status/1346307258397773826

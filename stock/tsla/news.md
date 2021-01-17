@@ -1,7 +1,18 @@
 # TSLA news
 
+## Sources
+https://www.reddit.com/r/teslamotors/
 
-### 1/21
+
+
+## News
+
+### 1/14
+[Major PROBLEM: Tesla Stock Crash Starting? Sell Now? 🚨](https://www.youtube.com/watch?v=MAV3A45oXD8)
+- sentiment overview + macro and risk management perspective
+
+
+### 1/12
 [Are EV Stocks In A Bubble? (Tesla, NIO, Xpeng)](https://www.youtube.com/watch?v=Vwb2UrZRQR0)
 -
 

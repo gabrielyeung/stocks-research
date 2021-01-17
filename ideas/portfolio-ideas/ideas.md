@@ -199,6 +199,8 @@ What are the 2-3 stocks that will dominate in 2021?
 ### 12/22/2020
 https://twitter.com/JonahLupton/status/1341379262750846976
 https://docs.google.com/spreadsheets/d/1rrqp-JQ5F9IxYBVgXmT0tdIyxFFAAp9eL1SqMNG5V2I/edit#gid=0
+https://twitter.com/jonahlupton/status/1349112459672616965
+*Jonah's current portfolio*
 ```
 Since I get lots of DM's asking about my current portfolio and what I own, I decided to create a Google spreadsheet and make it viewable for everyone. My plan is to update it every afternoon after the market closes.
 ```
