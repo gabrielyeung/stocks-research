@@ -13,6 +13,20 @@ Investment themes by decade:
 2020s: ?
 ```
 
+https://twitter.com/markminervini/status/1350893576490790912
+https://twitter.com/markminervini/status/1350893576490790912/photo/2
+The benefit of keeping losses small is not open for discussion... it's math! Losses work against you geometrically
+
+https://twitter.com/markminervini/status/1350879373084270592
+```
+Out of all the mistakes investors make... by far... the number one mistake that causes the biggest problems is not cutting losses. Those who don't take small losses eventually take large losses.
+It's just a matter of time before you blow up.
+My guarantee.
+```
+
+https://twitter.com/markminervini/status/1350857583498821633
+`If the stock is not going up it is either costing you money or costing you time.`
+
 
 ### 12/26/2020
 https://twitter.com/markminervini/status/1342867824130273282

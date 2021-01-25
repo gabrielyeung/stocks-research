@@ -1,6 +1,12 @@
 # NIO news
 
 
+### 1/21
+[WHAT NOW for NIO? Did WALL STREET just FORGOT NIO? Should you sell NIO? #NIO](https://www.youtube.com/watch?v=I0W6UC0VICM)
+- this person has deep experience
+- golden dip concept?
+
+
 ### 1/11
 [NIO Owner Explains: 5 MASSIVE REVENUE STREAMS!!! + 1 RED FLAG!](https://www.youtube.com/watch?v=lxrW0F0P2ss)
 - Blue Point Plan: everytime u drive your car, and save on carbon emissions, nio gets that and they sell that to the exchange, nio then compensates driver with nio points.

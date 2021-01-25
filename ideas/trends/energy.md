@@ -10,3 +10,20 @@ The capacity of utility-scale battery storage is set to more than quadruple, as 
 
 Battery storage will account for 11% of all U.S. planned capacity additions this year
 ```
+
+
+
+## TAN
+https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=TAN
+Ticker    Company                       % of Fund
+-------------------------------------------------
+ENPH      Enphase Energy Inc            11.26
+RUN       Sunrun Inc                    8.31
+SEDG      SolarEdge Technologies Inc    7.32
+968 HK    Xinyi Solar Holdings Ltd      6.88
+FSLR      First Solar Inc               5.68
+DQ        Daqo New Energy Corp ADR      4.96
+SCATC     Scatec ASA                    4.43
+HASI      Hannon Armstrong Sustainable Infrastructure Capital Inc  3.91
+3800 HK   GCL-Poly Energy Holdings Ltd  3.74
+ECV       Encavis AG                    3.73

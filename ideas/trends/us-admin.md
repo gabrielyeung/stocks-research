@@ -1,5 +1,12 @@
 # US Admin
 
+### 1/20
+[Biden Inauguration Live Reaction: Every Investor Needs To Hear This](https://www.youtube.com/watch?v=yhmaQkGUIsw)
+- @37:50" - Chris talks about presidential cycles.
+  - the biden trades/ the transition trades, easy the past 5-6 months, could buy anything and everything related to biden mission
+  - between now and next month when we get state of the union address, u start to have to dive a little bit deeper to figure out which of the trades are realistic, which of the trades will biden really press down on the first 3-6 months that will become his priorization. the trades that arent part of his priorization will start to fall apart
+- @49" - Chris is watching Redwood Materials, for lithium battery recycling company that has not spac'd yet, trying to figure out what might be the next big spac. keeping a list of companies that might spac in the next year, so that they can get ahead of it
+
 
 ### 1/15
 [The HIDDEN COST Of Your STIMULUS CHECK | Minority Mindset](https://www.youtube.com/watch?v=Wl6Te8VGDVo)

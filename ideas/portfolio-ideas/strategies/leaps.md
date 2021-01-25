@@ -54,3 +54,7 @@ https://www.youtube.com/channel/UCi_ESrLhTTrVD0yHPFmf_2g/videos
 
 ### 5/7/2020
 [What Are LEAPS in Options Trading? (How to Magnify Stock Returns)](https://www.youtube.com/watch?v=_72NBuq6TOg)
+
+
+### 4/21/2020
+https://www.thebalance.com/using-leaps-instead-of-stock-to-generate-huge-returns-358082

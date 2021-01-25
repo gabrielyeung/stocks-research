@@ -24,6 +24,21 @@ https://www.reddit.com/r/teslamotors/
 - stage 3: energy opportunity
 - 5T MC in 2030?
 
+https://twitter.com/icannot_enough/status/1347609287997198337
+```
+Days it took $TSLA to increase in value by $100B:
+Days | Mkt Cap | Date
+
+6,049 | $100B | 01/22/2020
+161 | $200B | 07/01/2020
+19 | $300B | 07/20/2020
+37 | $400B | 08/26/2020
+90 | $500B | 11/24/2020
+13 | $600B | 12/07/2020
+28 | $700B | 01/04/2021
+4 | $800B | 01/08/2021
+```
+
 
 ### 1/7/2021
 *TSLA closed at $816.04*

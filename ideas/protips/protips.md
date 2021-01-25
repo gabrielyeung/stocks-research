@@ -1,6 +1,35 @@
 # Protips
 
 
+### 1/22
+https://twitter.com/anandchokkavelu/status/1352789769705631747
+- Peter Lynch: "All you need for a lifetime of successful investing is a few big winners, and the pluses from those will overwhelm the minuses from the stocks that don't work out."
+- In investing, it’s 10-year returns, not daily returns. And FOMO may as well be spelled TILT.
+-
+```
+Math is only table stakes...
+To play well, it’s certainly important to know probabilities, pot odds, positional strength, and game theory.
+But emotional control, playing to your strengths and weaknesses, and the ability to pay constant attention are underrated.
+```
+- The secret is being happy spending less than you earn.
+
+
+### 1/10
+https://twitter.com/dannyvena/status/1348333388239826944
+he likes "winners keep winning" > "buy on pullbacks"
+
+https://twitter.com/raytl_/status/1348400023533338626
+```
+My positions dictate how long they are held,
+I don’t buy stocks by classifying them as a Swing/Position trade or as long/short term.
+```
+
+
+### 1/9
+https://twitter.com/raytl_/status/1348024881951039489
+he has a Friday rule - Clean slate Monday
+
+
 ### 1/8/2021
 https://twitter.com/raytl_/status/1347661888994201600
 constructive price action

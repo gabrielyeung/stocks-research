@@ -5,6 +5,11 @@ One up on Wallstreet
 
 ## Notes
 
+### 10/1/2020
+[Peter Lynch "This Is What You Should Do During A Market Crash"](https://www.youtube.com/watch?v=7zO9xQnEXBI)
+- know what u own and your reason for it
+
+
 ### 8/18/2020
 [Tesla Stock: Investment Wisdom (Peter Lynch)](https://www.youtube.com/watch?v=dxE4-ssuqxM)
 - ~1x every 2 yrs, market falls ~10%

@@ -45,6 +45,9 @@ https://twitter.com/garyblack00/status/1341707900142706689
 10/ $TSLA EPS continues to outrun its multiple. As the calendar flips to 2021 and portfolio mgrs assess TSLA, it starts to look “too cheap” rel to forward growth. At $632, $TSLA sells at 67x FY’22 EPS, vs 132x FY’21 EPS. At 1.2x PEG of 50%+ Vol & EPS growth, only $FB is cheaper.
 ```
 
+### 1/24/2021
+[Tesla Early Days (Starting An EV Company Is REALLY Hard)](https://www.youtube.com/watch?v=TWaiZuvC6s8)
+
 
 ## risks
 

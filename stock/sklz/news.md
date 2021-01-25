@@ -1,6 +1,12 @@
 # SKLZ news
 
 
+### 1/11
+https://twitter.com/saxena_puru/status/1348753060252712960
+https://twitter.com/skaushi/status/1348749591017971713/photo/1
+photo has reasons for growth
+
+
 ### 1/5
 https://twitter.com/saxena_puru/status/1346575255867858946
 ```

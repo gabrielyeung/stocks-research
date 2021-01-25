@@ -1,6 +1,14 @@
 # PTON news
 
 
+### 1/12
+https://twitter.com/chriscamillo/status/1349138043849089024
+```
+Not one ‘expert’ in the entire financial industry knows for a certainty what trade is going to work. Every time out it's a guess—and, if they’re lucky, an educated one
+```
+PTON retro - i went to those flywheel SLU classes back in 2018-19, i kinda knew they were fun, shoulda researched more at that point, could i have put 2 and 2 together on this in 2020 covid time?
+
+
 ### 1/5/2021
 https://twitter.com/chriscamillo/status/1346703070483267585
 ```

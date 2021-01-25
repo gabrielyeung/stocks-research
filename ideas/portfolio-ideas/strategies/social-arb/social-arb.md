@@ -6,11 +6,11 @@
 - https://DumbMoney.tv/discord
 - IG, FB & Twitter @DumbMoneyTV
 - https://DumbMoney.tv/podcast
-
+```
 What is “social arb” investing? Social arb investing and trading is the ability to detect change before the broader market does. We initiate investments upon discovering a meaningfully relevant social information imbalance and exit investments at the point of information parity.
 
 When and how do you decide to exit a social arb trade? When the market researches “information parity,” and the information is fully disseminated and digested by most investors.
-
+```
 ## Chris Camillo
 https://twitter.com/ChrisCamillo
 https://en.wikipedia.org/wiki/TickerTags
@@ -20,6 +20,7 @@ https://en.wikipedia.org/wiki/TickerTags
 **Gold**
 - [high conviction](https://docs.google.com/spreadsheets/d/1PkzVjohzO3c_LjZZXhwCwo2jFzESS5OzsdA-Yb7grtU)
 - [trade idea template](https://docs.google.com/document/d/1FpTCzMqnSUiYG2o63lF54pbV3t9QvIYA4iGZwXFo7oE)
+
 
 
 ## News
