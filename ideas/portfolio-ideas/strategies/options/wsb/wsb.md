@@ -3,6 +3,10 @@
 - what are the characteristics
   - GME: late 2020 - ~1/2021, small MC, activist investor, high short interest, extreme interest from wsb community
 
+# wsb history
+[WallStreetBets founder shares the most unbelievable trading stories he's seen - Jaime Rogozinski](https://www.youtube.com/watch?v=kX3NnlcsjQA)
+
+
 
 ### 1/22/2021
 [UP 116k OFF $600 ON ROBINHOOD ON GME | WSB](https://www.youtube.com/watch?v=0rozBKlSNdI)

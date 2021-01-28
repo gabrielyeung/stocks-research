@@ -8,7 +8,8 @@
 - [CNBC Finance](https://www.cnbc.com/quotes/?symbol=SQ&tab=ownership), good for glance of ownership list
 - [Macrotrends](https://www.macrotrends.net/)
 - https://www.portfolio-performance.info/en/
-
+- https://financhill.com/most-heavily-shorted-stocks-today
+- https://www.highshortinterest.com/
 
 ## Options tools
 - [Interactivebrokers, Probability Lab](https://www1.interactivebrokers.com/en/index.php?f=5910)
