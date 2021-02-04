@@ -2,8 +2,8 @@
 
 
 ### 1/11
-https://twitter.com/saxena_puru/status/1348753060252712960
-https://twitter.com/skaushi/status/1348749591017971713/photo/1
+https://twitter.com/saxena_puru/status/1348753060252712960  
+https://twitter.com/skaushi/status/1348749591017971713/photo/1  
 photo has reasons for growth
 
 
@@ -15,14 +15,14 @@ Founder/CEO owns ~22% of the business - skin in the game
 
 
 ### 1/4/2021
-M 1/4, ARKW initiates position in SKLZ
-https://twitter.com/seajewce/status/1346260750214508548
-https://poundingthetablepodcast.com/
+M 1/4, ARKW initiates position in SKLZ  
+https://twitter.com/seajewce/status/1346260750214508548  
+https://poundingthetablepodcast.com/   
 
 
 ### 1/2/2021
-https://twitter.com/investorwisdom/status/1345551997278191619
-https://sporttechie.com/nfl-invests-mobile-esports-skillz
+https://twitter.com/investorwisdom/status/1345551997278191619  
+https://sporttechie.com/nfl-invests-mobile-esports-skillz   
 ```
 Some type of #NFL + #esports deal is coming imo.
 
@@ -31,8 +31,8 @@ November 21, 2019 --> The NFL Invests in Mobile Esports Platform Skillz
 
 
 ### 12/25/2020
-https://twitter.com/seajewce/status/1342839198890545153
-https://www.masterthemeta.com/business-breakdowns/a-look-under-hood-of-skillz
+https://twitter.com/seajewce/status/1342839198890545153  
+https://www.masterthemeta.com/business-breakdowns/a-look-under-hood-of-skillz  
 ```
 - $sklz offers a patented SDK that game developers can integrate into their mobile games.
 - SDK ensure fair competition & accurate cash winnings & more
