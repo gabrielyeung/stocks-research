@@ -49,3 +49,12 @@ Mr. P:
 
 [Matt Black NIO EC6 + How this guy charges his car is BEYOND INSANE!](https://www.youtube.com/watch?v=fKsiim74H24)
 - 1 tap to charge. can buy vouchers to hire a guy to come drive your car off to battery swap and drive back
+
+
+### Self parking
+[NIO EC6 autonomous parking wth Nio Pilot Advanced Driver Assistance System (ADAS) demonstration](https://www.youtube.com/watch?v=u8VeH1nIkf4)
+[CAN NIO Auto Park By Itself? How about summoning?](https://youtu.be/2QguVzh8q3M?t=64)
+
+
+## Nio EP9 supercar
+[World's Fastest Supercar? The NIO EP9 Review By Richard Hammond #NIO​](https://www.youtube.com/watch?v=qbSB_J06fA8)

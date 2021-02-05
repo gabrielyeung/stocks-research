@@ -1,6 +1,11 @@
 # NIO news
 
 
+### 2/5
+https://www.fool.com/investing/2021/02/04/why-is-nio-spending-850-million-to-buy-shares-of-i/  
+Once these transactions close, NIO will own 90.360% of NIO China.
+
+
 ### 1/21
 [WHAT NOW for NIO? Did WALL STREET just FORGOT NIO? Should you sell NIO? #NIO](https://www.youtube.com/watch?v=I0W6UC0VICM)
 - this person has deep experience

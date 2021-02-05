@@ -25,3 +25,10 @@
 ### 2/4/2019
 [Don’t Try to Impress People! | Chamath Palihapitiya (Social Capital)](https://www.youtube.com/watch?v=ZxGC2zuXBuQ)
 - dont lose sight of what is really important
+
+
+
+
+
+## history
+[Chamath Palihapitiya: How much does a Billionaire tip?](https://www.youtube.com/watch?v=FmdpwvWJ4lo)

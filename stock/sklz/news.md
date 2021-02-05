@@ -1,6 +1,11 @@
 # SKLZ news
 
 
+### 2/4
+https://finance.yahoo.com/news/nfl-skillz-sign-multi-gaming-140000580.html
+- NFL and Skillz Sign Multi-Year Gaming Agreement
+
+
 ### 1/11
 https://twitter.com/saxena_puru/status/1348753060252712960
 https://twitter.com/skaushi/status/1348749591017971713/photo/1

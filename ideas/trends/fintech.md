@@ -1,6 +1,15 @@
 # Fintech
 
 
+### 2/5
+https://finance.yahoo.com/news/super-bowl-2021-is-first-with-no-cash-no-paper-tickets-121939676.html  
+Super Bowl 2021 is first with no cash, no paper tickets  
+https://finance.yahoo.com/news/visa-says-cashless-super-bowl-coming-by-2025-162240633.html
+```
+Visa CMO Lynne Biggar said in a press release. “Looking ahead, we see a cashless future for NFL fans where events, including future Super Bowls, are digital, creating a more secure and seamless payment environment for fans and concessionaires alike.”
+```
+
+
 ### 1/13
 [What China’s New Digital Currency Tells Us About a Cashless Future | WSJ](https://www.youtube.com/watch?v=_PFezEM_Mgg)
 - exploring the idea of digital currency

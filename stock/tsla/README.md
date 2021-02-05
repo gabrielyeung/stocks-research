@@ -92,3 +92,8 @@ $1,000 PT 6-12 mo.
 
 ## master plan
 [Elon Reviews Tesla Master Plan. Master Plan Part 2 Update 11th December 2020](https://www.youtube.com/watch?v=se2cK1xlKwg)
+
+
+## elon
+[Elon Musk on The Importance of Reading Books](https://www.youtube.com/watch?v=AqGWEk7bxZ0)
+[This is how Elon Musk hires...](https://www.youtube.com/watch?v=LLSb8phQ1t8)

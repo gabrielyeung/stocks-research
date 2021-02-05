@@ -1,6 +1,12 @@
 # Ideas
 
 
+### 1/28
+[Moneyball: Explaining the numbers HD CLIP](https://www.youtube.com/watch?v=jH6JcaCClrE)
+[Moneyball 2011, First pivotal scene - Peter Brant elaborates on baseball's medieval thinking.](https://www.youtube.com/watch?v=TpBcwGOvO80)
+[Moneyball (2011) - That's My Offer Scene](https://www.youtube.com/watch?v=Ofkb_7EnunM)
+
+
 ### 1/9
 [Revealing my ENTIRE $20 Million Dollar Stock Portfolio](https://www.youtube.com/watch?v=cpVOLWL8VX8)
 ideas on handling a 20 M acct

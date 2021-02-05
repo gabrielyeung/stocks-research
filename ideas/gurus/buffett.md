@@ -4,6 +4,13 @@ https://www.investopedia.com/articles/investing/012116/warren-buffett-be-fearful
 be “fearful when others are greedy, and greedy when others are fearful.”
 
 
+### 2/4
+[Warren Buffett's Best Investment Advice](https://www.youtube.com/watch?v=MPkLuUM4Iko)
+- appreciate the lack of stimulus
+- facts not stimulus
+- @2", temperament quality, not an intellectual quality. need a stable personality
+
+
 ### 1/16/2021
 [Why Buffett, Lynch & Munger All HATE Diversification (investing)](https://www.youtube.com/watch?v=EAib-EqU6d8)
 - Buffett: "Diversification is a protection against ignorance"

@@ -31,3 +31,7 @@ asdf
 ## catalyst
 - 2020 covid e-commerce behavior
 - stock split bc appl/tsla stock split success
+
+
+## history
+[1999 Jeff Bezos told Amazon stock too expensive!](https://www.youtube.com/watch?v=dTxuzW9RAO8)

@@ -3,6 +3,10 @@
 https://newsroom.pinterest.com/en/news
 
 
+### 2/4
+[How Pinterest is Revolutionizing eCommerce](https://www.youtube.com/watch?v=2HNzOFkYmIg)
+
+
 ### 1/8/2021
 https://twitter.com/brianferoldi/status/1347721825824944134
 https://www.fool.com/podcasts/industry-focus/2021-01-08-tech-top-stocks-for-2021
