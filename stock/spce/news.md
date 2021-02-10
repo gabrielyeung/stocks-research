@@ -1,6 +1,11 @@
 # SPCE news
 
 
+### 2/7
+[SPCE is the NEXT NASA](https://www.youtube.com/watch?v=tLuIpkXOLV4)
+- good overview of where the company is at in 2/2021
+
+
 ### 2/1/2021
 https://www.cnbc.com/2021/02/01/spacex-to-fly-first-mission-to-space-with-an-all-civilian-crew-later-this-year.html
 - SpaceX to fly first mission to space with an all-civilian crew later this year

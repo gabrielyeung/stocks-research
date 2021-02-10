@@ -1,6 +1,10 @@
 # NIO news
 
 
+### 2/9
+[NIO BREAKING NEWS! GOING TO THE MOON! BLACKROCK ALL IN! ANOTHER SALES RECORD COMING! (ROCKETFUEL)](https://www.youtube.com/watch?v=VEgEK_4Rsb0)
+
+
 ### 2/5
 https://www.fool.com/investing/2021/02/04/why-is-nio-spending-850-million-to-buy-shares-of-i/  
 Once these transactions close, NIO will own 90.360% of NIO China.

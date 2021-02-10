@@ -7,6 +7,29 @@ https://www.reddit.com/r/teslamotors/
 
 ## News
 
+
+### 2/8
+https://www.fool.com/investing/2021/02/08/tesla-gets-a-warning-in-china-as-it-loads-up-on-bi/
+https://finance.yahoo.com/news/elon-musk-is-serious-about-crypto-as-tesla-puts-15-billion-in-bitcoin-163633283.html
+- 1.5 B BTC purchase
+
+
+### 2/7
+[Tesla Founders On Elon Musk & The Early Days of Tesla](https://www.youtube.com/watch?v=AeRF_aKdpLA)
+
+
+### 2/6
+[CLUELESS Morgan Stanley Upgrade Tesla Stock Yet Still DOUBT Them](https://www.youtube.com/watch?v=GuPRBTZHduQ)
+```
+If we were to run a scenario of 50% CAGR thru 2030, our hybrid-DCF valuation model would rise in excess of 3k/share.
+To be clear, we are not prepared to treat such a scenario even within the scope of our bull case at this time and
+believe there is much for investors to explore in many of the non-unit based auto business lines such as:
+insurance, energy, 3rd battery supply, autonomy and network services revenue
+```
+- auto flywheel + SaaS flywheel
+- @5:38", Morgan Stanley projecting 5.38 M units in FY 2030. (but with existing factory projects, could reach 5M by ~2022/23)
+
+
 ### 1/14
 [Major PROBLEM: Tesla Stock Crash Starting? Sell Now? 🚨](https://www.youtube.com/watch?v=MAV3A45oXD8)
 - sentiment overview + macro and risk management perspective

@@ -46,3 +46,8 @@ https://twitter.com/raytl_/status/1346169315200888832
 ```
 Summarizes the EV landscape well.
 ```
+
+
+### China
+[EXPLAINING HOW GOV Policy is Accelerating the Adoption of EV's in China](https://www.youtube.com/watch?v=nSL0-0Jjv7c)
+- blue vs green license plates

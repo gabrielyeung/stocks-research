@@ -1,6 +1,11 @@
 
 
 
+### 2/4
+[Discussing Genomic Revolution With Dave Lee | Portfolio Reveal | Starlink IPO | Part 3/3](https://www.youtube.com/watch?v=AF6_AwaDLZ0)
+- @16:50" got into tsla at $3.5 B MC
+
+
 ### 1/14/2021
 [Winner Takes Most - Investing In the Modern Age (Ep. 230)](https://www.youtube.com/watch?v=wyw6GB2KYCY)
 - how can i have an edge

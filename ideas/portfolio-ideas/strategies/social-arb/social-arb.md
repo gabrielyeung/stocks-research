@@ -25,6 +25,13 @@ https://en.wikipedia.org/wiki/TickerTags
 
 ## News
 
+### 2/5/2021
+[https://www.youtube.com/watch?v=sreZYvoYVog](Massive Short Squeeze is Coming: $100 $150 or $500 SPCE Stock)
+- @12:55", he shows a view with StockTwits, shows twitter mentions
+- topstonks.com - shows a /wsb "mentions" comments volume feature
+- also talks about google trends view
+
+
 ### 10/29/2019
 [Listening to Social Conversations](https://www.youtube.com/watch?v=UCGah3spmjs)
 - @2:25" his strategy -> constantly monitoring social conversations, attempting to surface change earlier and quicker than other traders

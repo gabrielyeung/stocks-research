@@ -11,6 +11,13 @@
 
 ## News
 
+
+### 2/6
+[The Next $20 Million Investment Opportunity](https://www.youtube.com/watch?v=Ig8jrvDVoD8)  
+https://stocktwits.com/message/285199245  
+- GILT, HOL, NPA, SPCE
+
+
 ### 1/13/2021
 https://twitter.com/SawyerMerritt/status/1349473622981816322
 https://www.sec.gov/Archives/edgar/data/1579982/000110465921003837/tm212832d1_485apos.htm
