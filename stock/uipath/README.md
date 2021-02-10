@@ -24,6 +24,7 @@ UiPath's AI-backed Automation Platform is meant to "automate millions of repetit
 - [Introducing the UiPath Automation Cloud](https://www.youtube.com/watch?v=Ku7uDuBzDx0)
 - [UiPath software robot at work processing invoices in SAP](https://www.youtube.com/watch?v=fjdLAqgwMKA)
   - wow
+- https://www.gartner.com/reviews/market/robotic-process-automation-software/vendor/uipath/product/uipath/review/view/1401683
 
 
 ## stock's story
@@ -32,6 +33,12 @@ UiPath's AI-backed Automation Platform is meant to "automate millions of repetit
 ## risks
 
 ## catalyst
+
+## competitors
+- salesforce? https://www.salesforce.com/blog/introducing-einstein-bots-appexchange-packages/
+- https://www.gartner.com/reviews/market/robotic-process-automation-software/vendor/uipath/product/uipath/alternatives
+  - Automation Anywhere
+  - Blue Prism
 
 ## key metrics
 https://techcrunch.com/2021/02/01/robotic-process-automation-platform-uipath-raises-750m-at-35b-valuation/
